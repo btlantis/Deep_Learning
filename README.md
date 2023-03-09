@@ -1,5 +1,5 @@
 **Hi! This is Duen-shian (Ben) Wang,** 
-<\n>
+
 and I am looking for any opportunities as a computational chemistry and a deep learning researcher. 
 
 Please feel free to reach out to me by LinkedIn or email. Thank you!
