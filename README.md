@@ -1,5 +1,7 @@
 Hi! This is Duen-shian (Ben) Wang, 
+
 and I am looking for any opportunities as a computational chemistry and a deep learning researcher. 
+
 Please feel free to reach out to me by LinkedIn or email. Thank you!
 
 LinkedIn https://www.linkedin.com/in/duen-shian-wang/
