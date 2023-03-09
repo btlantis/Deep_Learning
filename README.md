@@ -14,7 +14,7 @@ Here are the examples for deep learning applications on drug discovrey realm.
 *1. Deep_learning_sample1_drug_discovery_oneInput_twoOutputs.ipynb
 
 
-Hightlight
+Hightlight:
 
 -Utilized RDKit (Open-Source Cheminformatics Software  https://www.rdkit.org/)
 
@@ -38,7 +38,7 @@ PS: If you have more than one numerical feature, try Concatenate all numerical f
 *2. Deep_learning_sample1_drug_discovery_twoInputs_twoOutputs.ipynb
 
 
-Hightlight
+Hightlight:
 
 -Utilized RDKit (Open-Source Cheminformatics Software  https://www.rdkit.org/)
 
