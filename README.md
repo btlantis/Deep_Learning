@@ -15,14 +15,17 @@ Here are the examples for deep learning applications on drug discovrey realm.
 
 
 Hightlight
+
 -Utilized RDKit (Open-Source Cheminformatics Software  https://www.rdkit.org/)
 
 -Appying K-fold validation and randomized initial weights to unbia train process.
 
 
+
 How to use?
 
 If you have small molecule drugs with SMILE and other numerical chemical/physical properties.
+
 -One Input: Featurized numerical feature of the small molecule from SMILE by chemcepterize_mol() function + flatten trick.
 
 -Multiple Outputs: e.g., binary class, binding affinity..etc
@@ -34,6 +37,7 @@ PS: If you have more than one numerical feature, try Concatenate all numerical f
 
 
 Hightlight
+
 -Utilized RDKit (Open-Source Cheminformatics Software  https://www.rdkit.org/)
 
 -Appying K-fold validation and randomized initial weights to unbia train process.
@@ -42,6 +46,7 @@ Hightlight
 
 
 How to use?
+
 If you have small molecule drugs with SMILE and other numerical chemical/physical properties.
 
 -Two Input: Featurized numerical feature of the small molecule from SMILE by chemcepterize_mol() function + flatten trick, and the graphic feature  chemcepterize_mol() function. 
