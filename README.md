@@ -18,7 +18,7 @@ Hightlight
 
 -Utilized RDKit (Open-Source Cheminformatics Software  https://www.rdkit.org/)
 
--Appying K-fold validation and randomized initial weights to unbia train process.
+-Appying K-fold validation and randomized initial weights to unbias train process.
 
 
 
@@ -40,7 +40,7 @@ Hightlight
 
 -Utilized RDKit (Open-Source Cheminformatics Software  https://www.rdkit.org/)
 
--Appying K-fold validation and randomized initial weights to unbia train process.
+-Appying K-fold validation and randomized initial weights to unbias train process.
 
 -Using both numerical and graphic data as inputs.
 
