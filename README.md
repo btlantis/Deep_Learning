@@ -7,7 +7,7 @@ Please feel free to reach out to me by LinkedIn or email. Thank you!
 LinkedIn https://www.linkedin.com/in/duen-shian-wang/
 Email duenshianwang@gmail.com
 
-######################################################################################################
+##############################################################################
 
 Here are the examples for deep learning applications on drug discovrey realm.
 
