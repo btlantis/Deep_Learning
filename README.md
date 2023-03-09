@@ -33,6 +33,8 @@ If you have small molecule drugs with SMILE and other numerical chemical/physica
 PS: If you have more than one numerical feature, try Concatenate all numerical features as One Iuput. 
 
 
+
+
 *2. Deep_learning_sample1_drug_discovery_twoInputs_twoOutputs.ipynb
 
 
