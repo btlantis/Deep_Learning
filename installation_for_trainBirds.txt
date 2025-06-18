@@ -9,3 +9,4 @@ python -m ipykernel install --user --name fastai-env --display-name "Python (fas
 jupyter notebook #open trainbirds.ipynb
 pip install fastbook
 pip install -Uqq fastai 'duckduckgo_search>=6.2'
+pip install timm==1.0.15 
