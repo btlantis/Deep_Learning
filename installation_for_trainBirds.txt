@@ -7,3 +7,5 @@ conda install -c fastai -c conda-forge fastai -y
 conda install jupyter ipykernel -y
 python -m ipykernel install --user --name fastai-env --display-name "Python (fastai)"
 jupyter notebook #open trainbirds.ipynb
+pip install fastbook
+pip install -Uqq fastai 'duckduckgo_search>=6.2'
