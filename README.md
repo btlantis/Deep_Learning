@@ -1,4 +1,4 @@
-**Hi! This is Duen-shian (Ben) Wang,** 
+**Hi! This is Duen-Shian (Ben) Wang,** 
 
 and I am looking for any opportunities as a computational chemistry and a deep learning researcher. 
 
